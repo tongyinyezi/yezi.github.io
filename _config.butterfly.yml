@@ -39,25 +39,25 @@ social:
 # Image (圖片設置)
 # --------------------------------------
 
-# Favicon（網站圖標）
-favicon: /img/favicon.png
+# Favicon（网站图标）
+favicon: https://cdn.staticaly.com/gh/tongyinyezi/picx-images-hosting@master/xxx/.79ef2ao0yoc0.jpg
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.staticaly.com/gh/tongyinyezi/picx-images-hosting@master/xxx/123.20osnm54gpz4.webp
+  img: https://cdn.staticaly.com/gh/tongyinyezi/picx-images-hosting@master/xxx/屏幕截图-2023-03-17-180002.3fd8h9aaar60.png
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
-# The banner image of home page
-index_img:
+# The banner image of home page(主页横图)
+index_img: https://cdn.staticaly.com/gh/tongyinyezi/picx-images-hosting@master/xxx/.79ef2ao0yoc0.jpg
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
 
 # The banner image of archive page
-archive_img:
+archive_img: https://cdn.staticaly.com/gh/tongyinyezi/picx-images-hosting@master/xxx/.55iqc44nrio0.jpeg
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
