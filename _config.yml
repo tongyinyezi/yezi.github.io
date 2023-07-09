@@ -112,7 +112,7 @@ deploy:
   quote: '生命不息，追番不止' # 格言
   color_meta: "#555"        # 追番项元数据的颜色
   color_summary: "#555"     # 追番项简介的颜色
-  bgmtv_uid: 802343       # bgm.tv的uid
+  bgmtv_uid: tongyinyezi    # bgm.tv的uid
   download_image: true      # 下载图片并使用本地图片，否则使用bgm.tv提供的网络图源
   image_level: c            # 图片高清等级 (l, c, m, s, g)
   lazyload: true            # 是否开启懒加载
