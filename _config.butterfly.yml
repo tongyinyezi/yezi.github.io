@@ -9,8 +9,9 @@ nav:
 
 # Menu 目錄
 menu:
-   Home: / || fas fa-home #回到首页
-   # Archives: /archives/ || fas fa-archive #时间轴
+   首页: / || fas fa-home #回到首页
+   追番: /bangumis/ || fas fa-video
+    #Archives: /archives/ || fas fa-archive #时间轴
    Tags: /tags/ || fas fa-tags
   # Categories: /categories/ || fas fa-folder-open
    List||fas fa-list:
